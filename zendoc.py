@@ -27,7 +27,8 @@ def load_llm(huggingface_repo_id, HF_TOKEN):
         temperature=0.5,
         model_kwargs={
             "token": HF_TOKEN,
-            "max_length": "512"
+            "max_length": "512",
+            "device": "cpu"  # Force CPU usage
         }
     )
     return llm
