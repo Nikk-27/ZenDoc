@@ -13,3 +13,8 @@ Follow the official Pipenv installation guide to set up Pipenv on your system:
 - pipenv install huggingface_hub
 - pipenv install streamlit
 
+
+
+Create and aste below line in your .env file with your Hugging face token
+
+HF_TOKEN=""
