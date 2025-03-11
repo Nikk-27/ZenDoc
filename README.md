@@ -18,3 +18,8 @@ Follow the official Pipenv installation guide to set up Pipenv on your system:
 Create and aste below line in your .env file with your Hugging face token
 
 HF_TOKEN=""
+
+
+Input Screen - 
+
+![image](https://github.com/user-attachments/assets/1c7c7865-620d-47ff-846e-9a4b3924b36a)
