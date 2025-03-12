@@ -1,5 +1,5 @@
 # ZenDoc
-Your own Health bot
+Your own Health bot [app link](https://huggingface.co/spaces/Nikk-27/zendocc)
 
 ### Prerequisite: Install Pipenv
 Follow the official Pipenv installation guide to set up Pipenv on your system:
